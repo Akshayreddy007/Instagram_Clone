@@ -1,0 +1,49 @@
+.suggestions{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.suggestions__title{
+    display: flex;
+    justify-content: space-between;
+}
+.suggestions__left{
+    color: grey;
+    font-weight: bolder;
+}
+.suggestions__right{
+    font-weight: bolder;
+}
+.username__left{
+    display: flex;
+    align-items: center;
+}
+.username__info{
+    display: flex;
+    flex-direction: column;
+}
+.relation{
+    color: grey;
+    font-size: 12px;
+}
+.suggestions__usernames{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.follow_button{
+    color: #0095f6;
+    font-weight: bold;
+    background: none;
+    border: none;
+}
+.follow_button:hover{
+    color: white;
+    cursor: pointer;
+}
+.username{
+    font-weight: 600;
+    font-size: 14px;
+}
+.avatar{
+    margin-right: 10px;
+}
